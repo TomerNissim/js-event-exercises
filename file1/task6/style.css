@@ -1,0 +1,8 @@
+.pane{
+    width: 30vw;
+    height: 25vh;
+    border: 0.1vw solid;
+}
+.remove-button{
+    margin-left: 28vw;
+}
