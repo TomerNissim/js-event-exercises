@@ -1,23 +1,23 @@
 # js-event-exercises
 file1: <br>
-    task1 = Hide on click /n
-    task2 = Hide self /n
-    task3 = Which handlers run? answer : 1,2 the removelistener will not work /n
-    task4 = Move the ball across the field /n
-    task5 = Create a sliding menu /n
-    task6 = Add a closing button
+    task1 = Hide on click <br>
+    task2 = Hide self <br>
+    task3 = Which handlers run? answer : 1,2 the removelistener will not work <br>
+    task4 = Move the ball across the field <br>
+    task5 = Create a sliding menu <br>
+    task6 = Add a closing button <br>
 
-file2:/n
-    task1 = Catch links in the element /n 
-    task2 = Image gallery /n
+file2:<br>
+    task1 = Catch links in the element <br>
+    task2 = Image gallery <br>
 
-file3:/n
-    task1 = Hide messages with delegation /n
-    task2 = Tree menu /n
-    task3 = Tooltip behavior /n
+file3:<br>
+    task1 = Hide messages with delegation <br>
+    task2 = Tree menu <br>
+    task3 = Tooltip behavior <br>
 
-file4:/n
-    task1 = Selectable list 
+file4:<br>
+    task1 = Selectable list <br>
      
-file5:/n
+file5:<br>
     task1 = Slider
