@@ -1,5 +1,5 @@
 # js-event-exercises
-file1: /n
+file1: <br>
     task1 = Hide on click /n
     task2 = Hide self /n
     task3 = Which handlers run? answer : 1,2 the removelistener will not work /n
